@@ -6,7 +6,7 @@
 <ul>
 <li>Atualmente aprendendendo C++</li>
 <li>Estou procurando projetos de codigo aberto💻</li>
-<li>Me pergunte sobre <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
+<li>Me pergunte sobre <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 <li>📭 Me envie um email @igor.g1999@hotmail.com</li>
 <ul>
 </div>
