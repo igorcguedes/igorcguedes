@@ -10,9 +10,8 @@ Amante de sistemas UNIX e derivados.
 
  [<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="mysql" width="24">](https://www.mysql.com/)   [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="vim" width="24">](https://www.vim.org/)  [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24">](https://git-scm.com/)  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="pbi" width="24">](https://code.visualstudio.com/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) 
 
----
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/igorcguedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcguedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcguedes&layout=compact&langs_count=7&theme=dracula"/>
