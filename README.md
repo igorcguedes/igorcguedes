@@ -32,8 +32,8 @@ Foco em desenvolvimento de soluções back-end.
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=Jogo-da-velha-C-&show_owner=true)](https://github.com/igorcguedes/Jogo-da-velha-C-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=SUMMON-PLUG&show_owner=true)](https://github.com/igorcguedes/SUMMON-PLUG)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=Jogo-da-velha-C-&show_owner=true)](https://github.com/igorcguedes/Jogodavelha)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=SUMMON-PLUG&show_owner=true)](https://github.com/igorcguedes/SummonPlugin)
 
 <h3> ☎️ Connect with Me </h3>
 
