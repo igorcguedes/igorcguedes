@@ -1,34 +1,45 @@
-<p align="center">
+![banner](https://drive.google.com/uc?export=view&id=1gB6chQiTx7_x-3lQwGzFzlhW9mDWhUg-)
+<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Chaitanya Pratap Singh</h1>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
+<img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
+<div align = "left" width = 50%>
+<h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> About ME </h2>
+<ul>
+<li>I love to learn to code in differnt languages</li>
+<li>I am looking forward to contribute on Open Source Projects💻</li>
+<li>Ask me about <a href ="https://www.java.com/en/" target = "_blank">Java</a> </li>
+<li>📭 Reach me at my mail @chaitanyapratapsingh24@gmail.com</li>
+<ul>
+</div>
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+ alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" /> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
+
+<br>
+<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<div>
+<h2  > Connect with me</h2>
+
+[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
+<br>  
+[<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
+<br>  
+[<img align="top" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687)
+<br>  
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/dev%20community-000000?logo=dev.to&logoColor=white&style=for-the-badge"/>](https://dev.to/chaitanyapratapsingh)
+<br>  
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
+<br>  
+</div>
   
-</p>
+## 📊 My Github Stats
 
-# Hi guys 👋  I'm Igor Guedes
-- 🔭 Cursando Ciências da computação
-- 🌱 Estou atualmente aprendendo C++
-- 👯 Open Source contribuitor
-- 💬 Pergunte sobre Linux!
-- ⚡  Fun fact: Gasto por volta de 6 horas estudando.
+  <br/>
+    <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
-### 🌐 Linguagens de programação
-
- - [<img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"  alt="C++" width="24">](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)  [<img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png" alt="JAVA" width="30">](https://www.java.com/pt-BR/)   [<img src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="PHP" width="24">](https://www.php.net/)   [<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="24">](https://getbootstrap.com/) 
-
-
-### 🛠️ Ferramentas
-- [<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="mysql" width="24">](https://www.mysql.com/)   [<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="vim" width="24">](https://www.vim.org/)  [<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="24">](https://git-scm.com/)  [<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="pbi" width="24">](https://code.visualstudio.com/)  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) 
-
-
----
- 
- 
-
-<h3> ☎️ Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.igorcguedes.com-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/igor-gomes-93632a193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorcguedes-blue?style=flat&logo=linkedin"></a>
-<a href="https://pt.stackoverflow.com/users/268151/igor-guedes" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-igorcguedes-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:igor.g1999@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igor.g1999@hotmail.com-blue?style=flat&logo=gmail"></a>
-</p>
