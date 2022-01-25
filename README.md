@@ -17,7 +17,6 @@ Amante de sistemas UNIX e derivados.
 </div>
 
 
-
 <h3> ☎️ Connect with Me </h3>
 
 <p align="center">
