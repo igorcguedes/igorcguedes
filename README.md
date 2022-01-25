@@ -38,7 +38,7 @@ Foco em desenvolvimento de soluções back-end.
 <h3> ☎️ Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.igorcguedes.com.np-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/igor-gomes-93632a193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorcguedes-blue?style=flat&logo=linkedin"></a>
 <a href="https://pt.stackoverflow.com/users/268151/igor-guedes" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-igorcguedes-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:igor.g1999@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-igor.g1999@hotmail.com-blue?style=flat&logo=gmail"></a>
