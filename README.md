@@ -32,12 +32,12 @@ Foco em desenvolvimento de soluções back-end.
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=PackageTemplate&show_owner=true)](https://github.com/igorcguedes/Jogo-da-velha-C-)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=Foods-Ecommerce&show_owner=true)](https://github.com/igorcguedes/SUMMON-PLUG)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=Jogo-da-velha-C-&show_owner=true)](https://github.com/igorcguedes/Jogo-da-velha-C-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=igorcguedes&repo=SUMMON-PLUG&show_owner=true)](https://github.com/igorcguedes/SUMMON-PLUG)
 
 <h3> ☎️ Connect with Me </h3>
 
-<p align="left">
+<p align="center">
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/igor-gomes-93632a193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorcguedes-blue?style=flat&logo=linkedin"></a>
 <a href="https://pt.stackoverflow.com/users/268151/igor-guedes" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-igorcguedes-blue?style=flat&logo=stackoverflow"></a>
