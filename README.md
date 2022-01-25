@@ -43,3 +43,12 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
+  ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+</a>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+
+----
+Credit: [Chaitanya-Pratap-Singh](https://github.com/chaitanya-pratap-singh)  
+Last Edited on: 9/10/2021
