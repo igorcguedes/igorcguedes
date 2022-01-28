@@ -6,7 +6,7 @@
 <ul>
 <li>I’m currently learning C++</li>
 <li>Looking for Open Source projects💻</li>
-<li>𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Arch <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch"/</li>
+<li>𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Gentoo <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch"/</li>
 <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 <li>📭 Send me a mail @igor.g1999@hotmail.com</li>
 <ul>
