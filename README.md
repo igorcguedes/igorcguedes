@@ -1,9 +1,9 @@
 
 <h1 align ="center">Hi! I`m Igor Guedes</h1>
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
 <div align = "left" width = 50%>
 <h2>ABOUT ME </h2>
 <ul>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 <li>I’m currently learning C++</li>
 <li>Looking for Open Source projects💻</li>
 <li>𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Gentoo <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch"/</li>
