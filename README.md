@@ -5,7 +5,7 @@
 <ul>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 <li>I’m currently learning C++</li>
-<li>Looking for Open Source projects💻</li>
+<li>Looking for Open Source projects 💻</li>
 <li>𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Gentoo <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch"/</li>
 <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 <li>📭 Send me a mail @igor.g1999@hotmail.com</li>
