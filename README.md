@@ -14,8 +14,6 @@
 
  <li>Btw i use Gentoo <a href="https://www.gentoo.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" width="30" height="30" /></li></a>
 
- <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
-
  <li>📭 Send me a mail igorcguedes@proton.me</li>
 <ul>
 </div>
