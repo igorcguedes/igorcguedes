@@ -11,7 +11,7 @@
 
  <li>Looking for Open Source projects 💻</li>
 
- <li>𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Gentoo <a href="https://www.gentoo.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" width="30" height="30" /></li></a>
+ <li>Btw i use Gentoo <a href="https://www.gentoo.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain-wordmark.svg" width="30" height="30" /></li></a>
 
  <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 
