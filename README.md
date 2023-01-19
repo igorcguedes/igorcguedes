@@ -5,9 +5,9 @@
 <ul>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 
- <li>I’m currently learning <a href="https://developer.salesforce.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30"/> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/> </a>
+ <li>I’m currently learning <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+<img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="30" height="30"/> </a>
+
  </li>
 
  <li>Looking for Open Source projects 💻</li>
