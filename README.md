@@ -15,7 +15,7 @@
 
  <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 
- <li>📭 Send me a mail @igor.g1999@hotmail.com</li>
+ <li>📭 Send me a mail @igorcguedes@proton.me</li>
 <ul>
 </div>
 
