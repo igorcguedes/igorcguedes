@@ -47,9 +47,7 @@
 <h2>Connect with me </h2>
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-guedes-93632a193/) 
-
 [<img align="top" alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/igorcguedes)
-
 [<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://pt.stackoverflow.com/users/268151/igor-guedes)
           
 </div>
