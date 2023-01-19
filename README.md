@@ -21,25 +21,27 @@
 </div>
 
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and technologies</u></h2>
- 
-  <a href="https://docs.docker.com/" target="_blank"> 
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"  alt="docker" /> </a> 
- 
-  <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank"> 
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" /> </a> 
- 
-   <a href="https://www.java.com/" target="_blank"> 
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </a> 
- 
-  <a href="https://www.rust-lang.org/learn" target="_blank">
- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"alt="Rust"/> </a> 
   
+  <a href="https://www.salesforce.com/" target="_blank"> 
+ <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="sf" /> </a> 
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> </a> 
+    <a href="https://www.java.com" target="_blank"> 
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </a> 
   <a href="https://devdocs.io/bash/" target="_blank"> 
  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /> </a> 
- 
-  <a href="https://www.mysql.com/" target="_blank"> 
- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" /> </a> 
+<p>
+ <a href="https://www.linux.org/" target="_blank"> 
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> 
+ <a href="https://www.lua.org/" target="_blank"> 
+ <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /> </a> 
+<a href="https://neovim.io/" target="_blank"> 
+ <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="nvim" /> </a> 
+   <a href="https://docs.oracle.com/database/121/LNPLS/toc.htm" target="_blank"> 
+ <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="plsql" /> </a> 
 </p>
+
+
 
 <div>
 <h2>Connect with me </h2>
