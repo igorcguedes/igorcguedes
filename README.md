@@ -5,7 +5,8 @@
 <ul>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 
- <li>I’m currently learning <a href="https://developer.salesforce.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30"/> </a>
+ <li>I’m currently learning <a href="https://developer.salesforce.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="30" height="30"/> </a>
  <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/> </a>
  </li>
 
@@ -15,7 +16,7 @@
 
  <li>Ask me about <a href ="https://www.linux.org" target = "_blank">Linux</a> </li>
 
- <li>📭 Send me a mail @igorcguedes@proton.me</li>
+ <li>📭 Send me a mail igorcguedes@proton.me</li>
 <ul>
 </div>
 
@@ -44,7 +45,9 @@
 <h2>Connect with me </h2>
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-guedes-93632a193/) 
+
 [<img align="top" alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/igorcguedes)
+
 [<img align="top" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://pt.stackoverflow.com/users/268151/igor-guedes)
           
 </div>
