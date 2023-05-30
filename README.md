@@ -5,7 +5,7 @@
 <ul>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 
- <li>I’m currently learning <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+ <li>I’m currently learning <a href="https://icons8.com/icon/mazno5QJBBis/lua-is-a-lightweight%2C-multi-paradigm-programming-language" target="_blank">
 <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="30" height="30"/> </a>
 
  </li>
